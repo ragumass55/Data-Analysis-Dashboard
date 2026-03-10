@@ -16,7 +16,7 @@ HR Analytics Dataset
 * What is the attrition trend based on years at company?
 
 ## Dashboard Interaction
-View Dashboard
+- <a href="https://github.com/ragumass55/Data-Analysis-Dashboard/blob/main/HR%20Analysis%20Dashboard.png">View Dashboard</a>
 
 ## Process
 * Imported the HR dataset into Power BI.
@@ -27,9 +27,8 @@ View Dashboard
 * Combined all visuals into an interactive dashboard with filters and slicers.
 
 ## Dashboard
-(Add your dashboard screenshot here)
-Example:
-![HR Analytics Dashboard](dashboard.png)
+<img width="1214" height="679" alt="HR Analysis Dashboard" src="https://github.com/user-attachments/assets/2eb49b47-3de8-405f-bdc1-66047330df5c" />
+
 
 ## Project Insights
 * Certain departments show higher employee attrition compared to others.
