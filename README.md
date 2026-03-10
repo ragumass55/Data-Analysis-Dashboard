@@ -4,16 +4,7 @@ The objective of this project is to analyze employee data and understand the key
 
 ## Dataset Used
 HR Analytics Dataset
-The dataset includes the following employee information:
-* Employee ID
-* Age
-* Gender
-* Department
-* Job Role
-* Salary
-* Education
-* Years at Company
-* Attrition Status
+- <a href="https://github.com/ragumass55/Data-Analysis-Dashboard/blob/main/HR%20analytcs.project.pbix">Dataset</a>
 
 ## Questions (KPIs)
 * What is the overall employee attrition rate?
